@@ -8,9 +8,7 @@ Before starting:
 
 2) Start XAMPP and import database.sql into PHPMyadmin.
 
-3) Create "PHP_SOLUTION" folder in XAMPP\htdocs\ (like: XAMPP\htdocs\PHP_SOLUTION).
-
-4) Copy the content of the "PHP_SOLUTION_Integrated_With_PC_Admin_Panel" folder into "PHP_SOLUTION" folder.
+3) Copy "PHP_SOLUTION" folder into "XAMPP\htdocs\".
 
 
     RazorPay card for tests:

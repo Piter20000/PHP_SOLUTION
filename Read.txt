@@ -1,0 +1,13 @@
+I) Xampp
+
+	Import database into PHPMyAdmin from "mysql" folder
+
+II) RazorPay card for tests:
+
+	card number 4111 1111 1111 1111
+	expiry 01/25
+	CW 123
+
+Use real email during "RazorPay" or "Just order" option to receaved email!
+	
+III) Check PC_Admin_Panel in C# integrated with database ("mysql" folder)

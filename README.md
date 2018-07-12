@@ -10,7 +10,7 @@ Before starting:
 
 3) Create "PHP_SOLUTION" folder in XAMPP\htdocs\ (like: XAMPP\htdocs\PHP_SOLUTION).
 
-4)Copy the content of the "PHP_SOLUTION_Integrated_With_PC_Admin_Panel" folder into "PHP_SOLUTION" folder.
+4) Copy the content of the "PHP_SOLUTION_Integrated_With_PC_Admin_Panel" folder into "PHP_SOLUTION" folder.
 
 
     RazorPay card for tests:

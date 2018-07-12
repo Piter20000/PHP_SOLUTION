@@ -4,11 +4,13 @@ Program is integrated with PC_Admin_Panel
 
 Before starting:
 
-1) Extract Google.rar & vendor.rar file
+1) Extract Google.rar & vendor.rar file.
 
-2) Start XAMPP and import database.sql into PHPMyadmin
+2) Start XAMPP and import database.sql into PHPMyadmin.
 
-3) Copy PHP_SOLUTION into htdocs folder in XAMPP like: XAMPP\htdocs\PHP_SOLUTION
+3) Create "PHP_SOLUTION" folder in XAMPP\htdocs\ (like: XAMPP\htdocs\PHP_SOLUTION).
+
+4)Copy the content of the "PHP_SOLUTION_Integrated_With_PC_Admin_Panel" folder into "PHP_SOLUTION" folder.
 
 
     RazorPay card for tests:
